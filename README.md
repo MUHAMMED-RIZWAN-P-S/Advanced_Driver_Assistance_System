@@ -1,1 +1,4 @@
-# Advanced_Driver_Assistance_System
+# Advanced Driver Assistance System
+
+Language: Python  
+Platform: Jupyter Notebook
